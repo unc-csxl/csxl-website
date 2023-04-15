@@ -34,6 +34,9 @@ nav ul {
   width: 100%;
   height: 98vh;
 }
+.template-p {
+  font-size: 14pt;
+}
 #about {
   height: 80vh;
 }
@@ -45,13 +48,13 @@ footer {
   justify-content: center;
   margin-top: 100px;
 }
-.card {
+.card-link {
   transition: 200ms ease-in-out;
 }
 .card-container {
   padding: 10px;
 }
-.card:hover {
+.card-link:hover {
   transform: scale(1.03);
 }
 .about-text {
